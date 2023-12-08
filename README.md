@@ -26,13 +26,6 @@
 </p>
 
 
-### 🎨 Skills & Expertise
-- **UI/UX Design**: Creating seamless user experiences
-- **Attention to Detail**: Pixel-perfect precision
-- **Problem-Solving**: It's a way of life
-- **Dynamic Presentation Skills**: Impactful communication
-- **Collaborative Teamwork**: For collective success
-- **Passionate about Driving Digital Transformation**
 
 ### 🎓 Education
 - **Ecole Polytechnique de Sousse**: Final Year Computer Science Engineering Degree, September 2021 - Present
@@ -84,3 +77,6 @@ Yes, I'm open to exciting opportunities!
 
 ### 📧 Contact Me
 For inquiries or discussions about projects: meryem.barkallah@polytechnicien.tn
+<br><br>
+<img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+<br><br><br>

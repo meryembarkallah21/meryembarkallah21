@@ -79,7 +79,6 @@ Yes, I'm open to exciting opportunities!
 
 ### 🌐 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=meryembarkallah21&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meryembarkallah21&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[meryembarkallah21])
 
 

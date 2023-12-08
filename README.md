@@ -54,7 +54,7 @@
 ### 🔗 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/meryem-barkallah-71462215a/)
 - [Portfolio](https://merry-dreamscape-portfolio.vercel.app/)
--[Resume](https://drive.google.com/file/d/1XyLNQNmkUXbmbyZYU1evPoI3Iw9xqxUr/view)
+- [Resume](https://drive.google.com/file/d/1XyLNQNmkUXbmbyZYU1evPoI3Iw9xqxUr/view)
 
 ### 🏆 Certifications
 - [Front-End Web UI Frameworks and Tools: Bootstrap 4](https://www.coursera.org/account/accomplishments/verify/QERX67DJH79G)

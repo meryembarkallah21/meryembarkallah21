@@ -1,4 +1,4 @@
-<h1 align="center">Hi all, I'm Meryem Barkallah 👋</h1>
+<h1 align="center">Hi all, I'm Meryem Barkallah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">,</h1>
 <h3 align="center">Final Year Computer Science Engineering Student | Seeking Graduation Internship</h3>
 <div align="center"> <img src="giphy.gif"> </div>
 

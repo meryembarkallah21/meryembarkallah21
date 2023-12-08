@@ -40,7 +40,7 @@
 #### Groupe Chimique Tunisien
 - **Software Developer Intern**: Streamlined equipment requests and borrowing processes using PHP.
 
-#### La Magie des Montages et Construction Métallique (Second Experience)
+#### La Magie des Montages et Construction Métallique
 - **Software Developer Intern**: Developed a Stock Management application using Node.js, ExpressJS, and Ejs, resulting in improved inventory tracking and management.
   
 #### CMS Plus

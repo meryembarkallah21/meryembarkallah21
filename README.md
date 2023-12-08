@@ -78,12 +78,9 @@ Tunisia
 Yes, I'm open to exciting opportunities!
 
 ### 🌐 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=[meryembarkallah21]&show_icons=true&locale=en&layout=compact)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=[meryembarkallah21]&show_icons=true&locale=en)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=meryembarkallah21&show_icons=true&locale=en&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=meryembarkallah21&show_icons=true&locale=en)
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=[meryembarkallah21])
-
-### 🔝 Top Contributed Repos
-![](https://github-contributor-stats.vercel.app/api?username=[meryembarkallah21]&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
 ### 📧 Contact Me

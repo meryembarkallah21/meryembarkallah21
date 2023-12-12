@@ -1,5 +1,11 @@
 <h1 align="center"> <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
  Hi all, I'm Meryem Barkallah <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
+
+
+![Mirrored Kyubey](https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif)
+
+
+ 
 </h1>
 <h3 align="center">Final Year Computer Science Engineering Student | Seeking Graduation Internship</h3>
 <div align="center"> <img src="giphy.gif"> </div>

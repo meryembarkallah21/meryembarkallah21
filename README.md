@@ -31,7 +31,7 @@
 
 ### 🎓 Education
 - **Ecole Polytechnique de Sousse**: Final Year Computer Science Engineering Degree, September 2021 - Present
-- **Faculté des sciences de Tunis**: Bachelor of Science in Computer Science, September 2018 - June 2021
+- **Faculté des sciences de Tunis**: Bachelor of Computer Science, September 2018 - June 2021
 
 ### 💼 Experiences
 #### La Magie des Montages et Construction Métallique
